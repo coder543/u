@@ -1,0 +1,8 @@
+[package]
+authors = ["Josh Leverette <josh.leverette@utiliflex.com>"]
+name = "u"
+version = "0.1.0"
+
+[dependencies]
+lazy_static = "0.2.9"
+reqwest = "0.8.1"
